@@ -1,2 +1,2 @@
 # myinfo
-Activity 2
+My github page repository
